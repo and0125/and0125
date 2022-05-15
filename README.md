@@ -1,5 +1,6 @@
+# Introduction
 
-- 👋 Hi! I’m Aaron Dantley @and0125.
+👋 Hi! I’m Aaron Dantley @and0125.
 
 ## Career Objective
 
