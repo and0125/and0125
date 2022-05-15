@@ -2,17 +2,21 @@
 
 - 👋 Hi! I’m Aaron Dantley @and0125.
 
-## Career statement
+## Career Objective
 
 Efficient problem-solver with experience in data engineering and data science, systems engineering, ETL
 and API development roles, with proven knowledge of statistical analysis and data visualization, cross-
 functional team building and leadership, as well as technical writing and communication. Aiming to
 leverage my skills as a data scientist and engineer.
 
-## Personal statement 
+## Personal Statement and Current Projects
 
 I’m interested in exploring the uses of python in web development and as a part of a larger, enterprise tech stack. Specifically, in building web applications and APIs with `django` and `django-rest-framework`. 
-I’m currently learning how to utilize `django` with different databases, in order to understand the use-cases for different database options. Also, I am planning my career to learn more about data engineering, infrastructure as code, and AWS services, which will appear in later projects.
+
+I’m currently learning how to utilize `django` with different databases, in order to understand the use-cases for different database options. 
+
+Also, I am planning my career to learn more about data engineering, infrastructure as code, and AWS services, which will appear in later projects.
+
 I’m looking to collaborate on website development, and am currently researching the tech stack and deployment methods for some personal projects.
 
 ## Contact Info
