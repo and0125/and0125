@@ -1,4 +1,3 @@
-**Last Updated 05/15/2022**
 
 - 👋 Hi! I’m Aaron Dantley @and0125.
 
