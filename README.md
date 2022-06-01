@@ -23,7 +23,7 @@ I’m looking to collaborate on website development, and am currently researchin
 
 How to reach me:
 
-- email: aarondantley@gmail.com (main email) or aadantley.dev@gmail.com (development inquiries).
+- email: aarondantley@gmail.com.
 
 <!---
 and0125/and0125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
