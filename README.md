@@ -10,7 +10,7 @@ Efficient problem-solver with experience in project/product management, data eng
 
 I’m interested in exploring the uses of python in web development and as a part of a larger, enterprise tech stack. Specifically, in building web applications and APIs with `django` and `django-rest-framework`. 
 
-I’m currently learning how to utilize `django` with different databases, in order to understand the use-cases for different database options. 
+I’m currently learning how to utilize `django` with different databases, in order to understand the use-cases for different database options. The bulk of my work in `django` has been in my current position as the API development lead for an internal project at Deloitte. The projects here are projects to encapsulate some of what I've learned, and also will include projects that I want to eventually launch.
 
 Also, I am planning my career to learn more about data engineering, infrastructure as code, and AWS services, which will appear in later projects.
 
