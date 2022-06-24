@@ -2,9 +2,9 @@
 
 👋 Hi! I’m Aaron Dantley @and0125.
 
-## Career Objective
+## About Me
 
-Efficient problem-solver with experience in project/product management, data engineering and data science, systems engineering, ETL and API development roles. Combined with a proven knowledge of statistical analysis and data visualization, cross-functional team building and leadership, as well as technical writing and communication. Aiming to leverage my skills into technical product management, focusing on data science/data engineering roles.
+I'm an efficient problem-solver with experience in project/product management, data engineering and data science, systems engineering, ETL and API development roles. Combined with a proven knowledge of statistical analysis and data visualization, cross-functional team building and leadership, as well as technical writing and communication. Aiming to leverage my skills into technical product management, focusing on data science/data engineering roles.
 
 ## Personal Statement and Current Projects
 
