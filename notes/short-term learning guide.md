@@ -27,3 +27,8 @@ My Goals for the next 6 months are:
 - Oct. 25th: implement API for front-ends, and do test deployments
 - Nov. 25th: do first live deployment on Heroku and AWS (implement both, stay with Heroku for cost savings)
 - Dec 25th: iterate on features and plan next release(s) or start new projects. 
+
+## Certification Goals
+
+- July 23rd: AWS ML Specialty Cert
+- TBD: Kubernetes Administrator Cert
